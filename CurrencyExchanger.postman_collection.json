@@ -10,7 +10,20 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "https://localhost:7151/api/currency-exchange/get-latest-exchange-rates/MXN",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7151",
+					"path": [
+						"api",
+						"currency-exchange",
+						"get-latest-exchange-rates",
+						"MXN"
+					]
+				}
 			},
 			"response": []
 		},
@@ -19,7 +32,22 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "https://localhost:7151/api/currency-exchange/convert-currency-amount/AUD/PHP/23",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7151",
+					"path": [
+						"api",
+						"currency-exchange",
+						"convert-currency-amount",
+						"AUD",
+						"PHP",
+						"23"
+					]
+				}
 			},
 			"response": []
 		},
@@ -28,7 +56,23 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": null
+				"url": {
+					"raw": "https://localhost:7151/api/currency-exchange/get-historical-exchange-rates-page/AUD/2022-11-01/2023-06-05/6",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7151",
+					"path": [
+						"api",
+						"currency-exchange",
+						"get-historical-exchange-rates-page",
+						"AUD",
+						"2022-11-01",
+						"2023-06-05",
+						"6"
+					]
+				}
 			},
 			"response": []
 		}
