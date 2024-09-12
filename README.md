@@ -3,7 +3,7 @@
 ## 1. Tech Stack
 - .NET Core 8
 - Moq (Unit testing)
-- Fluent FluentAssertions (Unit testing)
+- FluentAssertions (Unit testing)
 - Swagger (API Docos)
 - Visual Studio 2022
 
@@ -15,7 +15,7 @@
 ## 3. Addressing excluded currencies
 - Req: Allow users to convert amounts between different currencies. In case of TRY, PLN, THB, and MXN currency conversions, the endpoint should return a bad response, and these currencies should be excluded from the response.
 - List of excluded currencies is in appsettings (overridable per env)
-- It is part of the config Singleton of the App 
+- It is part of the config Singleton of the AppÂ 
 
 ## 4. Addressing protecting CurrencyExchanger and Frankfurter APIs
 ### 4.1 Rate Limiting
