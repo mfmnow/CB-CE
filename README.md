@@ -8,9 +8,9 @@
 - Visual Studio 2022
 
 ## 2. List of APIs
-- get-latest-exchange-rates/{currency} -> Gets latest exchange rates against a given currencies.
-- convert-currency-amount/{fromCurrency}/{toCurrency}/{amount} -> Converts an amount of a currency to another currency given current exchange rate
-- get-historical-exchange-rates-page/{currency}/{startDate}/{endDate}/{pageNumber} -> Returns a single page of historical rates data of a currency.
+- `get-latest-exchange-rates/{currency}` -> Gets latest exchange rates against a given currencies.
+- `convert-currency-amount/{fromCurrency}/{toCurrency}/{amount}` -> Converts an amount of a currency to another currency given current exchange rate
+- `get-historical-exchange-rates-page/{currency}/{startDate}/{endDate}/{pageNumber}` -> Returns a single page of historical rates data of a currency.
 
 ## 3. Addressing excluded currencies
 - Req: Allow users to convert amounts between different currencies. In case of TRY, PLN, THB, and MXN currency conversions, the endpoint should return a bad response, and these currencies should be excluded from the response.
