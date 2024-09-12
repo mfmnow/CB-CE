@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mfm.Bc.CurrencyExchanger.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Mfm.Bc.CurrencyExchanger.WebApi.App_Code.Middlewares.ErrorHandlerMiddleware">
+            <summary>
+            ErrorHandlerMiddleware class
+            </summary>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.App_Code.Middlewares.ErrorHandlerMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger{Mfm.Bc.CurrencyExchanger.WebApi.App_Code.Middlewares.ErrorHandlerMiddleware})">
+            <summary>
+            ErrorHandlerMiddleware
+            </summary>
+            <param name="next"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.App_Code.Middlewares.ErrorHandlerMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invoke
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.App_Code.Middlewares.ErrorHandlerMiddleware.GetContextArgs(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Generates Context Args
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Mfm.Bc.CurrencyExchanger.WebApi.App_Code.ServiceExtensions.SwaggerConfigService">
+            <summary>
+            Swagger Config Service
+            </summary>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.App_Code.ServiceExtensions.SwaggerConfigService.ConfigureSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Configures Swagger for a .NET Core WebApi
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+        </member>
+        <member name="T:Mfm.Bc.CurrencyExchanger.WebApi.Controllers.CurrencyExchangeController">
+            <summary>
+            CurrencyExchangeController class
+            </summary>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.Controllers.CurrencyExchangeController.#ctor(Mfm.Bc.CurrencyExchanger.Domain.Contracts.IExchangeRatesDomainService,Microsoft.Extensions.Logging.ILogger{Mfm.Bc.CurrencyExchanger.WebApi.Controllers.CurrencyExchangeController})">
+            <summary>
+            Manages Currency Exchange features
+            </summary>
+            <param name="exchangeRatesDomainService"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.Controllers.CurrencyExchangeController.GetLatestExchangeRates(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Gets latest exchange rates against a given currencies list (https://www.frankfurter.app/docs/#currencies)
+            </summary>
+            <param name="currency">Short name of a currency. Supported list: https://www.frankfurter.app/docs/#currencies</param>
+            <param name="cancellationToken">Cancellation Token</param>
+            <returns>Currency exchange rates object</returns>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.Controllers.CurrencyExchangeController.ConvertCurrencyAmount(System.String,System.String,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Converts an amount of a currency to another currency given current exchange rate
+            </summary>
+            <param name="fromCurrency">Short name of from currency. Supported list: https://www.frankfurter.app/docs/#currencies</param>
+            <param name="toCurrency">Short name of to currency. Supported list: https://www.frankfurter.app/docs/#currencies</param>
+            <param name="amount">Amount of currency to be converted</param>
+            <param name="cancellationToken">Cancellation Token</param>
+            <returns>Converted amount details</returns>
+        </member>
+        <member name="M:Mfm.Bc.CurrencyExchanger.WebApi.Controllers.CurrencyExchangeController.GetHistoricalExchangeRatesPage(System.String,System.DateTime,System.DateTime,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Returns a single page of historical rates data of a currency.
+            </summary>
+            <param name="currency">Short name of a currency. Supported list: https://www.frankfurter.app/docs/#currencies</param>
+            <param name="startDate">Start date of range</param>
+            <param name="endDate">End date of range</param>
+            <param name="pageNumber">Targeted page number</param>
+            <param name="cancellationToken">Cancellation Token</param>
+            <returns>A single page of historical rates data of a currency</returns>
+        </member>
+    </members>
+</doc>

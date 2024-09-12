@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mfm.Bc.CurrencyExchanger.Data.Contracts\Mfm.Bc.CurrencyExchanger.Data.Contracts.csproj" />
+    <ProjectReference Include="..\Mfm.Bc.CurrencyExchanger.Data.Entities\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj" />
+    <ProjectReference Include="..\Mfm.Bc.CurrencyExchanger.Domain.Contracts\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

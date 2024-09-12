@@ -1,0 +1,9 @@
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.deps.json
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.csprojAssemblyReference.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.csproj.CoreCompileInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.AssemblyInfoInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.AssemblyInfo.cs
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.pdb

@@ -1,0 +1,9 @@
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.deps.json
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.dll
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.csprojAssemblyReference.cache
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.csproj.CoreCompileInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.AssemblyInfoInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.AssemblyInfo.cs
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.dll
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Models\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.pdb

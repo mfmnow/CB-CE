@@ -1,0 +1,9 @@
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.deps.json
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.dll
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.pdb
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.AssemblyInfoInputs.cache
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.AssemblyInfo.cs
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj.CoreCompileInputs.cache
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.dll
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Data.Entities\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Data.Entities.pdb

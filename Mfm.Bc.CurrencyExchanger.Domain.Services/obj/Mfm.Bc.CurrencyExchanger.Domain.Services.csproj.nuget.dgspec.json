@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Services\\Mfm.Bc.CurrencyExchanger.Domain.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Contracts\\Mfm.Bc.CurrencyExchanger.Data.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Contracts\\Mfm.Bc.CurrencyExchanger.Data.Contracts.csproj",
+        "projectName": "Mfm.Bc.CurrencyExchanger.Data.Contracts",
+        "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Contracts\\Mfm.Bc.CurrencyExchanger.Data.Contracts.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj": {
+                "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj",
+        "projectName": "Mfm.Bc.CurrencyExchanger.Data.Entities",
+        "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Contracts\\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Contracts\\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj",
+        "projectName": "Mfm.Bc.CurrencyExchanger.Domain.Contracts",
+        "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Contracts\\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Models\\Mfm.Bc.CurrencyExchanger.Domain.Models.csproj": {
+                "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Models\\Mfm.Bc.CurrencyExchanger.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Models\\Mfm.Bc.CurrencyExchanger.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Models\\Mfm.Bc.CurrencyExchanger.Domain.Models.csproj",
+        "projectName": "Mfm.Bc.CurrencyExchanger.Domain.Models",
+        "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Models\\Mfm.Bc.CurrencyExchanger.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Services\\Mfm.Bc.CurrencyExchanger.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Services\\Mfm.Bc.CurrencyExchanger.Domain.Services.csproj",
+        "projectName": "Mfm.Bc.CurrencyExchanger.Domain.Services",
+        "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Services\\Mfm.Bc.CurrencyExchanger.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Contracts\\Mfm.Bc.CurrencyExchanger.Data.Contracts.csproj": {
+                "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Contracts\\Mfm.Bc.CurrencyExchanger.Data.Contracts.csproj"
+              },
+              "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj": {
+                "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj"
+              },
+              "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Contracts\\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj": {
+                "projectPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Domain.Contracts\\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

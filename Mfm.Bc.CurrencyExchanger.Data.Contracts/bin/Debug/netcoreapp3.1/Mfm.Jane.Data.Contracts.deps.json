@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mfm.Jane.Data.Contracts/1.0.0": {
+        "dependencies": {
+          "Mfm.Jane.Data.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Mfm.Jane.Data.Contracts.dll": {}
+        }
+      },
+      "Mfm.Jane.Data.Entities/1.0.0": {
+        "runtime": {
+          "Mfm.Jane.Data.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mfm.Jane.Data.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mfm.Jane.Data.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

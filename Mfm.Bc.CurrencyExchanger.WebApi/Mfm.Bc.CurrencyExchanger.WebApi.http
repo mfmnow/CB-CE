@@ -1,0 +1,6 @@
+@Mfm.Bc.CurrencyExchanger.WebApi_HostAddress = http://localhost:5116
+
+GET {{Mfm.Bc.CurrencyExchanger.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

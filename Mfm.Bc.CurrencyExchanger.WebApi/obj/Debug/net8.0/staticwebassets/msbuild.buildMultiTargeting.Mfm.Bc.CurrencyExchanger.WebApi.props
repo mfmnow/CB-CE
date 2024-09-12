@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mfm.Bc.CurrencyExchanger.WebApi.props" />
+</Project>

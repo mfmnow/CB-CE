@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mfm.Jane.Domain.Services/1.0.0": {
+        "dependencies": {
+          "Mfm.Jane.Data.Contracts": "1.0.0",
+          "Mfm.Jane.Data.Entities": "1.0.0",
+          "Mfm.Jane.Domain.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Mfm.Jane.Domain.Services.dll": {}
+        }
+      },
+      "Mfm.Jane.Data.Contracts/1.0.0": {
+        "dependencies": {
+          "Mfm.Jane.Data.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Mfm.Jane.Data.Contracts.dll": {}
+        }
+      },
+      "Mfm.Jane.Data.Entities/1.0.0": {
+        "runtime": {
+          "Mfm.Jane.Data.Entities.dll": {}
+        }
+      },
+      "Mfm.Jane.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "Mfm.Jane.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Mfm.Jane.Domain.Contracts.dll": {}
+        }
+      },
+      "Mfm.Jane.Domain.Models/1.0.0": {
+        "runtime": {
+          "Mfm.Jane.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mfm.Jane.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mfm.Jane.Data.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mfm.Jane.Data.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mfm.Jane.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mfm.Jane.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

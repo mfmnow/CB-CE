@@ -1,0 +1,17 @@
+C:\github\Mfm.Jane\Mfm.Rms.Jane.Services\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.dll
+C:\github\Mfm.Jane\Mfm.Rms.Jane.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.AssemblyInfoInputs.cache
+C:\github\Mfm.Jane\Mfm.Rms.Jane.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.AssemblyInfo.cs
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.deps.json
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Models.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Models.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.csprojAssemblyReference.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.AssemblyInfoInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.AssemblyInfo.cs
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.csproj.CopyComplete
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Services\obj\Debug\netcoreapp3.1\Mfm.Rms.Jane.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Mfm.Jane.Domain.Services.UnitTests
+build_property.ProjectDir = C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Jane.Domain.Services.UnitTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,12 @@
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.deps.json
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.dll
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.dll
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Domain.Models.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.csprojAssemblyReference.cache
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.AssemblyInfoInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.AssemblyInfo.cs
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.csproj.CopyComplete
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.dll
+C:\github\Mfm.Jane\Mfm.Jane.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Domain.Contracts.pdb

@@ -1,0 +1,13 @@
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.deps.json
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.dll
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.pdb
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Models.dll
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\bin\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Models.pdb
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj.AssemblyReference.cache
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.AssemblyInfoInputs.cache
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.AssemblyInfo.cs
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.csproj.CopyComplete
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.dll
+C:\private\Mfm.Jane-master\Mfm.Jane-master\Mfm.Bc.CurrencyExchanger.Domain.Contracts\obj\Debug\netcoreapp3.1\Mfm.Bc.CurrencyExchanger.Domain.Contracts.pdb

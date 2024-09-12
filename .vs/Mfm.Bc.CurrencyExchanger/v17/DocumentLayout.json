@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|solutionrelative:ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|c:\\mfm\\code\\mfm.bc.currencyexchanger\\mfm.bc.currencyexchanger.webapi\\app_code\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|solutionrelative:mfm.bc.currencyexchanger.webapi\\app_code\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|c:\\mfm\\code\\mfm.bc.currencyexchanger\\mfm.bc.currencyexchanger.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|solutionrelative:mfm.bc.currencyexchanger.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4949B003-5DB3-4ED3-87D2-DA91A681FDFD}|Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj|c:\\mfm\\code\\mfm.bc.currencyexchanger\\mfm.bc.currencyexchanger.data.entities\\exchangeratesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4949B003-5DB3-4ED3-87D2-DA91A681FDFD}|Mfm.Bc.CurrencyExchanger.Data.Entities\\Mfm.Bc.CurrencyExchanger.Data.Entities.csproj|solutionrelative:mfm.bc.currencyexchanger.data.entities\\exchangeratesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|c:\\mfm\\code\\mfm.bc.currencyexchanger\\mfm.bc.currencyexchanger.webapi\\controllers\\currencyexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|solutionrelative:mfm.bc.currencyexchanger.webapi\\controllers\\currencyexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|c:\\mfm\\code\\mfm.bc.currencyexchanger\\mfm.bc.currencyexchanger.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Bc.CurrencyExchanger.WebApi\\Mfm.Bc.CurrencyExchanger.WebApi.csproj|solutionrelative:mfm.bc.currencyexchanger.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\App_Code\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Mfm.Bc.CurrencyExchanger.WebApi\\App_Code\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\App_Code\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Mfm.Bc.CurrencyExchanger.WebApi\\App_Code\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:47:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Mfm.Bc.CurrencyExchanger.WebApi\\Program.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\Program.cs",
+              "RelativeToolTip": "Mfm.Bc.CurrencyExchanger.WebApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:43:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeRatesEntity.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\ExchangeRatesEntity.cs",
+              "RelativeDocumentMoniker": "Mfm.Bc.CurrencyExchanger.Data.Entities\\ExchangeRatesEntity.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.Data.Entities\\ExchangeRatesEntity.cs",
+              "RelativeToolTip": "Mfm.Bc.CurrencyExchanger.Data.Entities\\ExchangeRatesEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:41:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Mfm.Bc.CurrencyExchanger.WebApi\\appsettings.json",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\appsettings.json",
+              "RelativeToolTip": "Mfm.Bc.CurrencyExchanger.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T07:38:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyExchangeController.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\Controllers\\CurrencyExchangeController.cs",
+              "RelativeDocumentMoniker": "Mfm.Bc.CurrencyExchanger.WebApi\\Controllers\\CurrencyExchangeController.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\Mfm.Bc.CurrencyExchanger.WebApi\\Controllers\\CurrencyExchangeController.cs",
+              "RelativeToolTip": "Mfm.Bc.CurrencyExchanger.WebApi\\Controllers\\CurrencyExchangeController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:35:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.MD",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\ReadMe.MD",
+              "RelativeDocumentMoniker": "ReadMe.MD",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Bc.CurrencyExchanger\\ReadMe.MD",
+              "RelativeToolTip": "ReadMe.MD",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-12T06:12:28.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

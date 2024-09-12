@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n3broLKDDKfn51rKe9P1+ClYnT8VaabxwMXM22UJl3c=",
+  "Source": "Mfm.Bc.CurrencyExchanger.WebApi",
+  "BasePath": "_content/Mfm.Bc.CurrencyExchanger.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

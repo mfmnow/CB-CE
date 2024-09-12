@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Services\\Mfm.Rms.Jane.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Contracts\\Mfm.Jane.Data.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Contracts\\Mfm.Jane.Data.Contracts.csproj",
+        "projectName": "Mfm.Jane.Data.Contracts",
+        "projectPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Contracts\\Mfm.Jane.Data.Contracts.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Models\\Mfm.Jane.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Models\\Mfm.Jane.Data.Models.csproj",
+        "projectName": "Mfm.Jane.Data.Models",
+        "projectPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Models\\Mfm.Jane.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Services\\Mfm.Rms.Jane.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Services\\Mfm.Rms.Jane.Services.csproj",
+        "projectName": "Mfm.Rms.Jane.Services",
+        "projectPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Services\\Mfm.Rms.Jane.Services.csproj",
+        "packagesPath": "C:\\Users\\mfm\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Contracts\\Mfm.Jane.Data.Contracts.csproj": {
+                "projectPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Contracts\\Mfm.Jane.Data.Contracts.csproj"
+              },
+              "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Models\\Mfm.Jane.Data.Models.csproj": {
+                "projectPath": "C:\\github\\Mfm.Jane\\Mfm.Jane.Data.Models\\Mfm.Jane.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

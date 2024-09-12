@@ -1,0 +1,12 @@
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.deps.json
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.AssemblyInfoInputs.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.AssemblyInfo.cs
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.csprojAssemblyReference.cache
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.dll
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\bin\Debug\netcoreapp3.1\Mfm.Jane.Data.Entities.pdb
+C:\github\Mfm.Jane\Mfm.Jane.Data.Contracts\obj\Debug\netcoreapp3.1\Mfm.Jane.Data.Contracts.csproj.CopyComplete
