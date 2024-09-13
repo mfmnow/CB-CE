@@ -25,7 +25,8 @@
 - The biggest and heaviest call to retrieve historical rates (fortunatly cacheable since it does not change) is cached against keys.
 - This should improve performance and reduce third party calls
 - I implemented a super simple ConcurrentDictionary caching logic.. maybe in Prod, Redis would be a better idea with load balancers
-### 4.3 Future improvements
+### 4.3 Used SemaphoreSlim
+### 4.4 Future improvements
 - Maybe queue requests and control how much calls we execute against third party APIs
 
 ## 5. Docos
