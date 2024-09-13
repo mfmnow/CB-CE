@@ -8,7 +8,7 @@
 - Visual Studio 2022
 
 ## 2. List of APIs
-- `get-latest-exchange-rates/{currency}` -> Gets latest exchange rates against a given currencies.
+- `get-latest-exchange-rates/{currency}` -> Gets latest exchange rates against a given currency
 - `convert-currency-amount/{fromCurrency}/{toCurrency}/{amount}` -> Converts an amount of a currency to another currency given current exchange rate
 - `get-historical-exchange-rates-page/{currency}/{startDate}/{endDate}/{pageNumber}` -> Returns a single page of historical rates data of a currency.
 
