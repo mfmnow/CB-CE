@@ -23,7 +23,7 @@
 - WindowInSeconds and PermitLimit are configurable per env
 ### 4.2 Caching
 - The biggest and heaviest call to retrieve historical rates (fortunatly cacheable since it does not change) is cached against keys.
-- This should improve performance and call third party less times
+- This should improve performance and reduce third party calls
 - I implemented a super simple ConcurrentDictionary caching logic.. maybe in Prod, Redis would be a better idea with load balancers
 ### 4.3 Future improvements
 - Maybe queue requests and control how much calls we execute against third party APIs
@@ -40,18 +40,18 @@
 - Used MS DI which is built-in .NET Core
 - Used Singletons and Transits as needed
 ### 6.2 HTTPClient
-- Used .NET Core built-in HTTPClient registration and assigning to services
+- Used .NET Core built-in HTTPClient registration and assigning it to services
 ### 6.3 Configs
 - All Configs are Singletons and loaded on App start once.
 
 ## 7. Error handling
-- Create an Error handling Middleware (ErrorHandlerMiddleware)
+- Created an Error handling Middleware (ErrorHandlerMiddleware)
 
 ## 8. Logging
 - Used Microsoft extension that could be hooked to any logging service like AppInsights or Serilog (Not configured).
 
 ## 9. Validations
-- Used manual data, imputs and responses validations.
+- Used manual data, inputs and responses validations.
 
 ## 10 Furure work
 - Using validation services
